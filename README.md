@@ -20,7 +20,7 @@ Bu Flutter uygulaması, yazılıma yeni başlayanlar için hangi yazılım alan�
 1. Bu projeyi klonlayın:
 
 ```bash
-git clone https://github.com/<kullanici_adiniz>/yazilim-alani-belirleme.git
+git clone https://github.com/MertGzc/alanBelirlemeUygulamasi
 ```
 
 2. Proje dizinine gidin:
